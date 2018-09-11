@@ -1,0 +1,15 @@
+.btn {
+	border-radius: 2px;
+	&__td{
+		font-family: Arial, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	&__link{
+		font-family: Arial, sans-serif;
+		color:#ffffff;
+		display: inline-block;
+		text-decoration: none;
+		font-weight: bold;
+	}
+}

@@ -1,0 +1,9 @@
+extends layout/_layout
+include framework/btn.jade
+block content
+
+  include layout/_header
+
+  +btn(200, 44, "#28b460", "Hello world", "#")
+
+  include layout/_footer
