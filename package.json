@@ -1,7 +1,7 @@
 {
-  "name": "mail-attribution360",
+  "name": "mail-plate",
   "version": "0.0.1",
-  "description": "mail attribution360 description",
+  "description": "Responsive email boilerplate based on generator-gulp-ink-email tools with some updates and Email-framework components",
   "author": "",
   "devDependencies": {
     "browser-sync": "~2.2.1",
