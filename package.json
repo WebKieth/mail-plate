@@ -2,7 +2,7 @@
   "name": "mail-plate",
   "version": "0.0.1",
   "description": "Responsive email boilerplate based on generator-gulp-ink-email tools with some updates and Email-framework components",
-  "author": "",
+  "author": "casperx",
   "devDependencies": {
     "browser-sync": "~2.2.1",
     "del": "~1.1.1",
